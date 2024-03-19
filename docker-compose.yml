@@ -1,3 +1,7 @@
+- name: Docker Compose Action
+  uses: isbang/compose-action@v1.5.1
+            
+
 version: "3"
 
 services:
