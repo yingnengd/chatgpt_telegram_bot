@@ -1,6 +1,6 @@
 telegram_token: "7048575756:AAFUqhrs1KEos2JgtVqRVkBuKLj9zpYFc7Q"
-openai_api_key: "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"
-openai_api_base: null  # leave null to use default api base or you can put your own base url here
+openai_api_key: "g4a-9QyEitepX1BUW3TtD3lIyk1qNNDEbhS7RHB"
+openai_api_base: https://api.gpt4all.pp.ua
 allowed_telegram_usernames: [] # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
 return_n_generated_images: 1
