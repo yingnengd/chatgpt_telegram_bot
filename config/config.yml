@@ -1,6 +1,5 @@
-telegram_token: "7048575756:AAFUqhrs1KEos2JgtVqRVkBuKLj9zpYFc7Q"
-openai_api_key: "g4a-9QyEitepX1BUW3TtD3lIyk1qNNDEbhS7RHB"
-openai_api_base: https://api.gpt4all.pp.ua
+telegram_token: "7030407430:AAFf0JlIvYe__1GeAbNTBA7KxMDdouX0AbM"
+openai_api_key: "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"
 allowed_telegram_usernames: [] # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
 return_n_generated_images: 1
